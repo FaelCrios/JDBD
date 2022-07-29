@@ -1,0 +1,6 @@
+Comandos para rodar a tabela:
+
+java -classpath .;hsql.jar org.hsql.Server
+java -classpath .;hsql.jar Cria
+java -classpath .;hsql.jar Insere
+java -classpath .;hsql.jar Select
